@@ -1,4 +1,4 @@
-
+# Phase 1: Security Home Lab
 
 
 ![SOC Analyst](https://drive.google.com/uc?export=view&id=114GFFF8l-XB17-fyVcOvh_h4o2o9CV2u)
@@ -12,3 +12,4 @@ By utilizing Suricata, an open-source intrusion detection system (IDS), I could 
 Furthermore, I integrated PfSense with Snort, an open-source network intrusion prevention system (IPS), to provide an additional layer of security to the network. Snort aided in detecting and preventing network intrusions and malicious activities by analyzing network traffic in real-time.
 
 Through the implementation of these cybersecurity tools, I aimed to create a secure lab environment that mirrored real-world scenarios. It allowed me to gain practical experience in detecting and mitigating potential threats, thereby strengthening my understanding of cybersecurity concepts and enhancing my skills as a future cybersecurity professional.
+
