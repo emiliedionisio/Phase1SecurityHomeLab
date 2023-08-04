@@ -1,7 +1,7 @@
 
 
 
-![SOC Analyst](https://drive.google.com/uc?export=view&id=114GFFF8l-XB17-fyVcOvh_h4o2o9CV2u)
+<!-- ![SOC Analyst](https://drive.google.com/uc?export=view&id=114GFFF8l-XB17-fyVcOvh_h4o2o9CV2u) -->
 
 
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://drive.google.com/uc?export=view&amp;id=114GFFF8l-XB17-fyVcOvh_h4o2o9CV2u" alt="" /> &nbsp;</p>
