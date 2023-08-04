@@ -1,4 +1,4 @@
-👩# [Phase 1: Security Home Lab](https://www.github.com/octokatherine)
+#👩[Phase 1: Security Home Lab](https://www.github.com/octokatherine)
 
 
 <!--![SOC Analyst](https://drive.google.com/uc?export=view&id=114GFFF8l-XB17-fyVcOvh_h4o2o9CV2u)-->
