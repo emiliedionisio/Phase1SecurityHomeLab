@@ -3,7 +3,7 @@
 
 ![SOC Analyst](https://drive.google.com/uc?export=view&id=114GFFF8l-XB17-fyVcOvh_h4o2o9CV2u)
 
-![SOC Analyst](https://drive.google.com/uc?export=view&id=114GFFF8l-XB17-fyVcOvh_h4o2o9CV2u)](https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/TKH-Phase1Project.pdf) 
+![SOC Analyst](https://drive.google.com/uc?export=view&id=114GFFF8l-XB17-fyVcOvh_h4o2o9CV2u)]https://github.com/emiliedionisio/emiliedionisio.github.io/blob/main/TKH-Phase1Project.pdf 
 
 In my cybersecurity phase 1 project, I took measures to implement cybersecurity practices within the lab environment. I incorporated Ubuntu Servers with Suricata and Splunk, as well as PfSense with Snort, to enhance the security of the network. These tools enabled me to monitor network traffic, detect potential threats, and analyze log data for security purposes.
 
